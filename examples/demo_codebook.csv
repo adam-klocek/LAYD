@@ -1,0 +1,11 @@
+"include","item","scale","min","max","reverse","integer"
+TRUE,"A1","A",1,5,FALSE,TRUE
+TRUE,"A2","A",1,5,FALSE,TRUE
+TRUE,"A3","A",1,5,FALSE,TRUE
+TRUE,"A4","A",1,5,FALSE,TRUE
+TRUE,"A5","A",1,5,FALSE,TRUE
+TRUE,"B1","B",1,5,FALSE,TRUE
+TRUE,"B2","B",1,5,FALSE,TRUE
+TRUE,"B3","B",1,5,FALSE,TRUE
+TRUE,"B4","B",1,5,TRUE,TRUE
+TRUE,"B5","B",1,5,FALSE,TRUE
